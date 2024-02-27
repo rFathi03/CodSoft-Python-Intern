@@ -1,0 +1,50 @@
+1/ The capital city of France is/ Paris
+2/ The planet known as the "Red Planet" is/ Mars
+3/ The author of the play "Romeo and Juliet" is/ William Shakespeare
+4/ The chemical symbol for gold is/ Au
+5/ World War II ended in the year/ 1945
+6/ The largest mammal on Earth is/ Blue Whale
+7/ The famous artwork "Starry Night" was painted by/ Vincent van Gogh
+8/ The famous scientist who developed the theory of general relativity is/ Albert Einstein
+9/ The largest ocean on Earth is/ Pacific Ocean
+10/ The process by which plants make their own food using sunlight is called/ Photosynthesis
+11/ Plants absorb this gas from the atmosphere during photosynthesis:/ Carbon Dioxide (CO2)
+12/ The currency of Japan is/ Yen
+13/ The author of the Harry Potter book series is/ J.K. Rowling
+14/ The instrument used to measure earthquakes is/ Seismometer
+15/ The country known as the "Land of the Rising Sun" is/ Japan
+16/ The chemical symbol for oxygen is/ O
+17/ The famous speech that begins with "I have a dream" was delivered by/ MLK Jr.
+18/ The tallest mountain in the world is/ Mount Everest
+19/ The Titanic sank in the year/ 1912
+20/ The gas responsible for the Earth's protective ozone layer is/ Ozone (O3)
+21/ The author of the play "Hamlet" is/ William Shakespeare
+22/ The symbol for the chemical element helium is/ He
+23/ The mammal capable of true flight is/ Bat
+24/ The largest desert in the world is/ Sahara Desert
+25/ The painter of the Mona Lisa is/ Leonardo da Vinci
+26/ The largest organ in the human body is/ Skin
+27/ Plants release this gas during photosynthesis:/ Oxygen (O2)
+28/ The capital city of Japan is/ Tokyo
+29/ The smallest planet in our solar system is/ Mercury
+30/ The author of the novel "Pride and Prejudice" is/ Jane Austen
+31/ The largest species of shark is/ Great White Shark
+32/ The year in which the Berlin Wall fell is/ 1989
+33/ The chemical symbol for iron is/ Fe
+34/ The process by which water vapor turns into liquid water is called/ Condensation
+35/ The planet known as the "Morning Star" or the "Evening Star" is/ Venus
+36/ The first President of the United States was/ George Washington
+37/ The national flower of Japan is/ Sakura
+38/ The smallest bone in the human body is/ Stapes (in the ear)
+39/ The author of the novel "1984" is/ George Orwell
+40/ The gas that human lungs primarily exhale is/ Carbon Dioxide (CO2)
+41/ The capital city of Australia is/ Canberra
+42/ The largest species of penguin is/ Emperor Penguin
+43/ The painter of "The Persistence of Memory" is/ Salvador Dalí
+44/ The chemical symbol for silver is/ Ag
+45/ The ancient wonder located in Alexandria in Egypt was/ Lighthouse of Alexandria
+46/ The largest planet in our solar system is/ Jupiter
+47/ The person who discovered penicillin is/ Alexander Fleming
+48/ The national flower of India is/ Lotus
+49/ The year in which the United States landed on the moon is/ 1969
+50/ The capital city of Brazil is/ Brasilia
